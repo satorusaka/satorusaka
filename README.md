@@ -1,3 +1,6 @@
+im too lazy to update this profile. go to my website [jimmylye.com](https://jimmylye.com).
+
+
 - 👋 Hi, I’m @satorusaka
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
