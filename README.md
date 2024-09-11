@@ -1,13 +1,11 @@
-im too lazy to update this profile. go to my website [jimmylye.com](https://jimmylye.com).
+go to my portfolio thanks >> [jimmylye.com](https://jimmylye.com).
 
+👋 Hi, I’m @satorusaka
 
-- 👋 Hi, I’m @satorusaka
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+i make stuff. 
 
-<!---
-satorusaka/satorusaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+check my repos
+
+thanks
+
+:)
